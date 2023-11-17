@@ -1,0 +1,17 @@
+# ignore source image
+
+*.png
+*.bmp
+*.jpg
+*.jpeg
+
+# ignore model parameter
+# *.pt
+# *.pth
+
+
+.idea
+.DS_Store
+*.pyc
+*.zip
+*.tar
